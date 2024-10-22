@@ -7,38 +7,38 @@
 <br />
 <br />
 
-Èç¹ûÄú³õ´Î½Ó´¥±¾ÏîÄ¿£¬Äú¿ÉÒÔ£º  
-[²éÔÄÈëÃÅ(¿ìËÙÉÏÊÖ)Ö¸ÄÏ](https://www.easy-eai.com/document_details/21/680)
+å¦‚æžœæ‚¨åˆæ¬¡æŽ¥è§¦æœ¬é¡¹ç›®ï¼Œæ‚¨å¯ä»¥ï¼š  
+[æŸ¥é˜…å…¥é—¨(å¿«é€Ÿä¸Šæ‰‹)æŒ‡å—](https://www.easy-eai.com/document_details/21/680)
 
-Èç¹ûÄú¾ß±¸·á¸»µÄÇ¶ÈëÊ½CÓïÑÔ¿ª·¢¾­Ñé£¬Äú¿ÉÒÔ£º  
-[²éÔÄEASYEAI¿ª·¢ÊµÀý](https://www.easy-eai.com/document_details/21/699)  
-[²éÔÄAPI¿ª·¢ÊÖ²á](https://www.easy-eai.com/document_details/21/731)
+å¦‚æžœæ‚¨å…·å¤‡ä¸°å¯Œçš„åµŒå…¥å¼Cè¯­è¨€å¼€å‘ç»éªŒï¼Œæ‚¨å¯ä»¥ï¼š  
+[æŸ¥é˜…EASYEAIå¼€å‘å®žä¾‹](https://www.easy-eai.com/document_details/21/699)  
+[æŸ¥é˜…APIå¼€å‘æ‰‹å†Œ](https://www.easy-eai.com/document_details/21/731)
 
 
-Ê¹ÓÃ·½·¨£º  
-[1] - ¿ËÂ¡±¾GitHub²Ö¿â   
-[2] - ½øÈë¾ßÌåµÄ(demo/solution)Ä¿Â¼Ö´ÐÐ£º./build.sh   
-[3] - Ôò»áÔÚ¾ßÌåµÄ(demo/solution)Ä¿Â¼µÄRelease/ÏÂÉú³ÉÏà¹ØµÄ¿ÉÖ´ÐÐ³ÌÐò
+ä½¿ç”¨æ–¹æ³•ï¼š  
+[1] - å…‹éš†æœ¬GitHubä»“åº“   
+[2] - è¿›å…¥å…·ä½“çš„(demo/solution)ç›®å½•æ‰§è¡Œï¼š./build.sh   
+[3] - åˆ™ä¼šåœ¨å…·ä½“çš„(demo/solution)ç›®å½•çš„Release/ä¸‹ç”Ÿæˆç›¸å…³çš„å¯æ‰§è¡Œç¨‹åº
 
-ÖØÒª¸üÐÂ£º
+é‡è¦æ›´æ–°ï¼š
 ---
 > 2024-10-22 :
-> * ·¢²¼ EASY-EAI-Toolkit-1106-0.0.0
-> * ¸üÐÂ easyeai-api
->     * Í¨ÓÃ×é¼þapi
->         * [ÐÂÔö] base64
->         * [ÐÂÔö] font_engine
->         * [ÐÂÔö] ini
->         * [ÐÂÔö] qrcode
->         * [ÐÂÔö] system_opt
-> * ÐÂÔö¡¾Apiµ¥Àý¡¿
->     * [ÐÂÔö] common-base64
->     * [ÐÂÔö] common-font_engine
->     * [ÐÂÔö] common-ini
->     * [ÐÂÔö] common-qrcode
->     * [ÐÂÔö] common-system_opt
-> * ÐÂÔö¡¾¿ª·¢ÊµÀý¡¿
->     * [ÐÂÔö] rtspIPCamera
+> * å‘å¸ƒ EASY-EAI-Toolkit-1106-0.0.0
+> * æ›´æ–° easyeai-api
+>     * é€šç”¨ç»„ä»¶api
+>         * [æ–°å¢ž] base64
+>         * [æ–°å¢ž] font_engine
+>         * [æ–°å¢ž] ini
+>         * [æ–°å¢ž] qrcode
+>         * [æ–°å¢ž] system_opt
+> * æ–°å¢žã€Apiå•ä¾‹ã€‘
+>     * [æ–°å¢ž] common-base64
+>     * [æ–°å¢ž] common-font_engine
+>     * [æ–°å¢ž] common-ini
+>     * [æ–°å¢ž] common-qrcode
+>     * [æ–°å¢ž] common-system_opt
+> * æ–°å¢žã€å¼€å‘å®žä¾‹ã€‘
+>     * [æ–°å¢ž] rtspIPCamera
 >
 > 2024-10-22 : 
-> * ´´½¨±¾ÏîÄ¿
+> * åˆ›å»ºæœ¬é¡¹ç›®

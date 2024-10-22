@@ -2,7 +2,7 @@
 <br/>
 
 
-[ÖÐÎÄ](README.md)
+[ä¸­æ–‡](README.md)
 
 <br />
 <br />
@@ -15,7 +15,7 @@ If you have extensive experience in embedded C development. You can do:
 [reference the API development manual](https://www.easy-eai.com/document_details/21/731)
 
 
-How to use£º  
+How to useï¼š  
 [1] - Clone this Git Storage to Local   
 [2] - Enter the corresponding (Demo/Solution) directory of this repository: ./build.sh   
 [3] - The relevant (Demo/Solution) will be generated under Release/ in the specific directory
