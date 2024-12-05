@@ -11,10 +11,12 @@ if [ "$1" = "clear" ]; then
     exit 0
 fi
 
-mkdir -p Release
 rm -rf build && mkdir build && cd build
 cmake ..
 make -j24
 
 chmod 777 test-*
-cp test-* ../Release
+mkdir -p "../Release" && cp test-* "../Release"
+
+cp ../Release/* $SYSROOT/userdata/Demo
+

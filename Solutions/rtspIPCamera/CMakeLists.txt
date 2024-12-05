@@ -65,7 +65,7 @@ set(sysLib_list
 # ========================== custom ============================
 # solution project
 ## 在/usr/share/cmake-3.18/Modules/目录下的Find*.cmake，都能通过这种方式被找到
-find_package(OpenCV REQUIRED)
+#find_package(OpenCV REQUIRED)
 
 ## 在/usr/lib/aarch64-linux-gnu/pkgconfig/下的pc文件，都可以通过这种方式查找
 ## 用法：

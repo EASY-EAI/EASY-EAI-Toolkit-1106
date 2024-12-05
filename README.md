@@ -22,6 +22,17 @@
 
 重要更新：
 ---
+> 2024-12-05 :
+> * 发布 EASY-EAI-Toolkit-1106-0.0.1
+> * 更新 easyeai-api
+>     * 通用组件api
+>         * [新增] http
+>         * [新增] modbus
+> * 新增【Api单例】
+>     * [新增] common-http
+>     * [新增] common-modbus
+>     * [更新] common-ini
+>
 > 2024-10-22 :
 > * 发布 EASY-EAI-Toolkit-1106-0.0.0
 > * 更新 easyeai-api

@@ -17,3 +17,6 @@ make -j24
 
 chmod 777 test-*
 mkdir -p "../Release" && cp test-* "../Release"
+
+cp ../Release/* $SYSROOT/userdata/Demo
+

@@ -2,11 +2,10 @@
 
 #include "qrcode.h"
 
-#define QRCODE_PATH  "./Release/QRCode.png"
+#define QRCODE_PATH  "./QRCode.png"
 
 int main(void)
 {
-    StrToQRCode(QRCODE_PATH, "hello! my name is EasyEai-api !");
-	
-	return 0;
+    StrToQRCode(QRCODE_PATH, "hello! my name is EasyEai-api !");	
+    return 0;
 }

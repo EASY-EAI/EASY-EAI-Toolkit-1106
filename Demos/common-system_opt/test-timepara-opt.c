@@ -7,12 +7,12 @@
 int main(void)
 {
 	printf("\n================= [system_time_parameter_api_demo] =====================\n");
-	printf("current timeval  = %lu us\n", get_timeval_us());
-	printf("current timeval  = %lu ms\n", get_timeval_ms());
-	printf("current timeval  = %lu s\n", get_timeval_s());
+	printf("current timeval  = %llu us\n", get_timeval_us());
+	printf("current timeval  = %llu ms\n", get_timeval_ms());
+	printf("current timeval  = %llu s\n", get_timeval_s());
 	printf("current timeStamp = %d\n", get_time_stamp());
 	uint32_t curDate = 0, curTime = 0;
-	set_system_date_time(2021, 12, 03, 11, 07, 06);
+	set_system_date_time(2024, 12, 05, 14, 27, 46);
 	get_system_date_time(&curDate, &curTime);
 	printf("[string] current date = %u, time = %u\n", curDate, curTime);
 	

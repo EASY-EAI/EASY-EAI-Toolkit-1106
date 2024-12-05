@@ -24,6 +24,17 @@ How to use：
 
 important update log:
 ---
+> 2024-12-05 :
+> * Release EASY-EAI-Toolkit-1106-0.0.1
+> * update easyeai-api
+>     * common_api
+>         * [new] http
+>         * [new] modbus
+> * update Demo
+>     * [new] common-http
+>     * [new] common-modbus
+>     * [update] common-ini
+>
 > 2024-10-22 :
 > * Release EASY-EAI-Toolkit-1106-0.0.0
 > * update easyeai-api
