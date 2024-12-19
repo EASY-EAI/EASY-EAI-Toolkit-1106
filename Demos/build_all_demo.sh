@@ -6,7 +6,7 @@ SHELL_FOLDER=$(cd "$(dirname "$0")";pwd)
 cd $SHELL_FOLDER
 
 release_path="Release"
-#algorithm_list=`ls -d algorithm-*`
+algorithm_list=`ls -d algorithm-*`
 common_list=`ls -d common-*`
 
 alldemo="$algorithm_list $common_list"

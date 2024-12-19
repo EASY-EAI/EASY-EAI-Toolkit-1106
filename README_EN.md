@@ -24,6 +24,16 @@ How to use：
 
 important update log:
 ---
+> 2024-12-19 :
+> * Release EASY-EAI-Toolkit-1106-0.0.2
+> * update easyeai-api
+>     * algorithm_api
+>         * [new] fire_detect
+>         * [new] person_detect
+> * update Demo
+>     * [new] algorithm-fire
+>     * [new] algorithm-person
+>
 > 2024-12-05 :
 > * Release EASY-EAI-Toolkit-1106-0.0.1
 > * update easyeai-api

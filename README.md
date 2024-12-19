@@ -22,6 +22,16 @@
 
 重要更新：
 ---
+> 2024-12-19 :
+> * 发布 EASY-EAI-Toolkit-1106-0.0.2
+> * 更新 easyeai-api
+>     * 算法组件api
+>         * [新增] fire_detect
+>         * [新增] person_detect
+> * 新增【Api单例】
+>     * [新增] algorithm-fire
+>     * [新增] algorithm-person
+>
 > 2024-12-05 :
 > * 发布 EASY-EAI-Toolkit-1106-0.0.1
 > * 更新 easyeai-api
